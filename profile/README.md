@@ -8,6 +8,21 @@ Fontfound is a mobile app designed to empower designers by instantly identifying
 
 ---
 
+## Team Member C242-PS319		
+<div align="center">
+
+| Bangkit ID |             Name             |   Learning Path    |             Campus            |
+|:----------:|:----------------------------:|:------------------:|:-----------------------------:|
+|M001B4KY1753| haykal Maulana Rulian        | Machine Learning   | Institut Pertanian Bogor      |
+|M012B4KX1185| Dora Leonny Giselle Tambunan | Machine Learning   | Universitas Telkom            |
+|M211B4KY2625| Muhammad Chaerul Anwar       | Machine Learning   | Universitas Indraprasta PGRI  |
+|C370B4KY2684| Muhammad Adithya Pratama     | Cloud Computing    | STMIK IKMI Cirebon            |
+|C156B4KY3753| Reski Junaidi Shalat         | Cloud Computing    | Sekolah Tinggi Teknologi TNF  |
+|A247B4KY3019| Muhammad Raka Azwar          | Mobile Development | Universitas Lambung Mangkurat |
+|A290B4KY0964| Daffa Fathan Romadhan        | Mobile Development | Universitas Pancasila         |
+
+</div>
+
 # Machine Learning
 FontFound has built a model with TensorFlow Lite and TensorFlow. Js, used a data pipeline to serve the model, and preprocessed the data using Missing Values Imputation.
 
