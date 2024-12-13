@@ -11,9 +11,9 @@ Fontfound is a mobile app designed to empower designers by instantly identifying
 ## Team Member C242-PS319		
 <div align="center">
 
-| Bangkit ID |             Name             |   Learning Path    |             Campus            |
+| Bangkit ID |             Name             |   Learning Path    |           Campus              |
 |:----------:|:----------------------------:|:------------------:|:-----------------------------:|
-|M001B4KY1753| haykal Maulana Rulian        | Machine Learning   | Institut Pertanian Bogor      |
+|M001B4KY1753| Haykal Maulana Rulian        | Machine Learning   | Institut Pertanian Bogor      |
 |M012B4KX1185| Dora Leonny Giselle Tambunan | Machine Learning   | Universitas Telkom            |
 |M211B4KY2625| Muhammad Chaerul Anwar       | Machine Learning   | Universitas Indraprasta PGRI  |
 |C370B4KY2684| Muhammad Adithya Pratama     | Cloud Computing    | STMIK IKMI Cirebon            |
